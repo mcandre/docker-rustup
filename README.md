@@ -37,7 +37,8 @@ https://hub.docker.com/r/mcandre/docker-rustup/
 $ make
 
 $ docker images | grep mcandre/docker-rustup
-mcandre/docker-rustup            i686-gnu            650b68943a9a        4 minutes ago       599 MB
+mcandre/docker-rustup            x86_64-musl         d762f3a1c85b        4 minutes ago       586 MB
+mcandre/docker-rustup            i686-gnu            650b68943a9a        27 minutes ago      599 MB
 mcandre/docker-rustup            x86_64-gnu          47f8035c6594        About an hour ago   543 MB
 ```
 
