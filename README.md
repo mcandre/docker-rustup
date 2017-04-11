@@ -1,5 +1,9 @@
 # mcandre/docker-rustup: Docker images for (Linux) rustup build bots
 
+# ABOUT
+
+mcandre/docker-rustup Docker images help you compile Rust applications for different systems, without requiring Rust on your host system.
+
 # EXAMPLE
 
 ```console
