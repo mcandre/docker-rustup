@@ -1,4 +1,4 @@
-FROM ubuntu:xenial
+FROM ubuntu:bionic
 ENV PATH $PATH:/root/.cargo/bin
 RUN apt-get update && \
     apt-get install -y curl gcc && \
